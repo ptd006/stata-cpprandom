@@ -10,7 +10,7 @@
  Compile with
  cl cpprandom.cpp stplugin.c /LD /MD /link /out:cpprandom.plugin
 
- See cpprandom.do for example calling the RNG from within Stata:
+ See cpprandom.do for example calling the RNG from within Stata.
 
  Peter Windridge Apr 2015.
 */
